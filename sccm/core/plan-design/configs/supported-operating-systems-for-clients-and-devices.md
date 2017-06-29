@@ -125,10 +125,7 @@ The files **WBEMDISP.DLL** and **WBEMDISP.TLB** must exist and be registered in 
 
 -   **Windows Fundamentals for Legacy PCs (WinFLP)** (x86)    
 
--   **Windows XP Embedded SP3** (x86)    
-
--   **Windows Embedded Standard 2009** (x86)  
-
+-   
 ## Windows CE computers
  You can manage Windows CE devices with the Configuration Manager mobile device legacy client that is included with Configuration Manager.  
 
